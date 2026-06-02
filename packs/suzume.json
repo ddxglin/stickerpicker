@@ -1,0 +1,8 @@
+{
+  "name": "suzume表情包",
+  "icon": "./suzume/01.png",
+  "stickers": [
+    {"body":"suzume1","url":"./suzume/01.png"},
+    {"body":"suzume2","url":"./suzume/02.png"}
+  ]
+}
